@@ -6,9 +6,11 @@ Universitat Politècnica de Catalunya (UPC).
 
 Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud (HEIG-VD).
 
+**Please note that the data was not included for confidentiality reasons.**
+
 **CHUV/**
 
-    It contains all the CHUV data in csv files.
+    It contains all the CHUV data in csv files. (NOT INCLUDED)
 
 **algorithms/**
 
@@ -37,7 +39,7 @@ Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud (HEIG-VD).
 
 **generated_data/**
 
-    It contains the generated data in pickle format.
+    It contains the generated data in pickle format. (NOT INCLUDED)
 
 **logs/**
 
@@ -50,7 +52,7 @@ Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud (HEIG-VD).
 
 **outs/**
 
-    It contains auxiliar txt files.
+    It contains auxiliar txt files. (NOT INCLUDED)
 
 **test/**
 
